@@ -1,0 +1,9 @@
+baseURL = "https://<workofai.github.io/"
+languageCode = "en-us"
+title = "work of ai"
+theme = "PaperMod"
+
+[params]
+  author = "Barath Singh"
+  description = "Learning AI"
+  # Add more parameters as needed
